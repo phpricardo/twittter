@@ -1,24 +1,20 @@
-# README
+# Twittter Protótipo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto exemplo onde é feito uma copia simples do twitter.
 
-Things you may want to cover:
+## Funcionalidades existentes:
 
-* Ruby version
+- [x] Cadastro e Edicação de Novos Usuários
+- [x] Realizar Login/Logout
+- [x] CRUD de Tweets 
 
-* System dependencies
+## Gems Extras Utilizadas:
 
-* Configuration
+- [x] Bulma
+- [x] Simple Form
+- [x] Gravatar Image
+- [x] Devise
 
-* Database creation
 
-* Database initialization
+![](/public/twittter.png)
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
